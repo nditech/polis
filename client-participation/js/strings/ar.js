@@ -3,9 +3,9 @@
 var s = {};
 
 //s.agree = "Agree";
-s.agree = "يوافق";
+s.agree = "أوافق";
 //s.disagree = "Disagree";
-s.disagree = "تعارض";
+s.disagree = "أعارض";
 //s.pass = "Pass / Unsure";
 s.pass = "تمرير / غير متأكد";
 
